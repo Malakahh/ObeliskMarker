@@ -1,0 +1,26 @@
+<Bindings>
+	<Binding name="SRI_1" header="SRI_H">
+		ObeliskMarker_ToggleMarker(1);
+	</Binding>
+	<Binding name="SRI_2">
+		ObeliskMarker_ToggleMarker(2);
+	</Binding>
+	<Binding name="SRI_3">
+		ObeliskMarker_ToggleMarker(3);
+	</Binding>
+	<Binding name="SRI_4">
+		ObeliskMarker_ToggleMarker(4);
+	</Binding>
+	<Binding name="SRI_5">
+		ObeliskMarker_ToggleMarker(5);
+	</Binding>
+	<Binding name="SRI_6">
+		ObeliskMarker_ToggleMarker(6);
+	</Binding>
+	<Binding name="SRI_7">
+		ObeliskMarker_ToggleMarker(7);
+	</Binding>
+	<Binding name="SRI_8">
+		ObeliskMarker_ToggleMarker(8);
+	</Binding>
+</Bindings>
