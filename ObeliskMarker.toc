@@ -1,7 +1,7 @@
 ## Interface: 80000
 ## Title: |cFFDDCF99Obelisk|r Marker
 ## Author: Malakahh
-## Notes: A reimagined bag addon. Allows the creation of custom bags.
+## Notes: A raid marking utility.
 ## Version: r0
 
 markers.lua
